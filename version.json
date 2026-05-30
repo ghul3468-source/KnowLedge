@@ -1,7 +1,8 @@
 {
+  "version_exe": 1,
   "version_data": 1,
-  "version_app": 1,
-  "last_updated": "2026-05-30 18:00:00",
-  "exe_url": "https://raw.githubusercontent.com/ghul3468-source/KnowLedge/main/KnowLedge.exe",
-  "exe_hash": "f9895b9c9a3de04d5aead2d972ab5d1e"
+  "last_updated": "2026-05-30 23:00:00",
+  "exe_hash": "96c3a53fe6e31aac354285de64f7e997",
+  "exe_url": "https://raw.githubusercontent.com/ghul3468-source/KnowLedge/main/KnowLedge.zip",
+  "data_url": "https://raw.githubusercontent.com/ghul3468-source/KnowLedge/main/data.zip"
 }
