@@ -1,4 +1,7 @@
 {
-  "version": 1,
-  "last_updated": "2026-05-30 18:00:00"
+  "version_data": 1,
+  "version_app": 1,
+  "last_updated": "2026-05-30 18:00:00",
+  "exe_url": "https://raw.githubusercontent.com/ghul3468-source/KnowLedge/main/KnowLedge.exe",
+  "exe_hash": "md5_хеш_файла"
 }
